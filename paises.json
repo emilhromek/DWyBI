@@ -1,0 +1,1199 @@
+{
+  "paises": [
+    {
+      "pais": "Afghanistan",
+      "continente": "Asia",
+      "superficie": "652090"
+    },
+    {
+      "pais": "Netherlands",
+      "continente": "Europe",
+      "superficie": "41526"
+    },
+    {
+      "pais": "Netherlands Antilles",
+      "continente": "North America",
+      "superficie": "800"
+    },
+    {
+      "pais": "Albania",
+      "continente": "Europe",
+      "superficie": "28748"
+    },
+    {
+      "pais": "Algeria",
+      "continente": "Africa",
+      "superficie": "2.38174e+06"
+    },
+    {
+      "pais": "American Samoa",
+      "continente": "Oceania",
+      "superficie": "199"
+    },
+    {
+      "pais": "Andorra",
+      "continente": "Europe",
+      "superficie": "468"
+    },
+    {
+      "pais": "Angola",
+      "continente": "Africa",
+      "superficie": "1.2467e+06"
+    },
+    {
+      "pais": "Anguilla",
+      "continente": "North America",
+      "superficie": "96"
+    },
+    {
+      "pais": "Antigua and Barbuda",
+      "continente": "North America",
+      "superficie": "442"
+    },
+    {
+      "pais": "United Arab Emirates",
+      "continente": "Asia",
+      "superficie": "83600"
+    },
+    {
+      "pais": "Argentina",
+      "continente": "South America",
+      "superficie": "2.7804e+06"
+    },
+    {
+      "pais": "Armenia",
+      "continente": "Asia",
+      "superficie": "29800"
+    },
+    {
+      "pais": "Aruba",
+      "continente": "North America",
+      "superficie": "193"
+    },
+    {
+      "pais": "Australia",
+      "continente": "Oceania",
+      "superficie": "7.74122e+06"
+    },
+    {
+      "pais": "Azerbaijan",
+      "continente": "Asia",
+      "superficie": "86600"
+    },
+    {
+      "pais": "Bahamas",
+      "continente": "North America",
+      "superficie": "13878"
+    },
+    {
+      "pais": "Bahrain",
+      "continente": "Asia",
+      "superficie": "694"
+    },
+    {
+      "pais": "Bangladesh",
+      "continente": "Asia",
+      "superficie": "143998"
+    },
+    {
+      "pais": "Barbados",
+      "continente": "North America",
+      "superficie": "430"
+    },
+    {
+      "pais": "Belgium",
+      "continente": "Europe",
+      "superficie": "30518"
+    },
+    {
+      "pais": "Belize",
+      "continente": "North America",
+      "superficie": "22696"
+    },
+    {
+      "pais": "Benin",
+      "continente": "Africa",
+      "superficie": "112622"
+    },
+    {
+      "pais": "Bermuda",
+      "continente": "North America",
+      "superficie": "53"
+    },
+    {
+      "pais": "Bhutan",
+      "continente": "Asia",
+      "superficie": "47000"
+    },
+    {
+      "pais": "Bolivia",
+      "continente": "South America",
+      "superficie": "1.09858e+06"
+    },
+    {
+      "pais": "Bosnia and Herzegovina",
+      "continente": "Europe",
+      "superficie": "51197"
+    },
+    {
+      "pais": "Botswana",
+      "continente": "Africa",
+      "superficie": "581730"
+    },
+    {
+      "pais": "Brazil",
+      "continente": "South America",
+      "superficie": "8.5474e+06"
+    },
+    {
+      "pais": "United Kingdom",
+      "continente": "Europe",
+      "superficie": "242900"
+    },
+    {
+      "pais": "\"Virgin Islands",
+      "continente": " British\"",
+      "superficie": "North America"
+    },
+    {
+      "pais": "Brunei",
+      "continente": "Asia",
+      "superficie": "5765"
+    },
+    {
+      "pais": "Bulgaria",
+      "continente": "Europe",
+      "superficie": "110994"
+    },
+    {
+      "pais": "Burkina Faso",
+      "continente": "Africa",
+      "superficie": "274000"
+    },
+    {
+      "pais": "Burundi",
+      "continente": "Africa",
+      "superficie": "27834"
+    },
+    {
+      "pais": "Cayman Islands",
+      "continente": "North America",
+      "superficie": "264"
+    },
+    {
+      "pais": "Chile",
+      "continente": "South America",
+      "superficie": "756626"
+    },
+    {
+      "pais": "Cook Islands",
+      "continente": "Oceania",
+      "superficie": "236"
+    },
+    {
+      "pais": "Costa Rica",
+      "continente": "North America",
+      "superficie": "51100"
+    },
+    {
+      "pais": "Djibouti",
+      "continente": "Africa",
+      "superficie": "23200"
+    },
+    {
+      "pais": "Dominica",
+      "continente": "North America",
+      "superficie": "751"
+    },
+    {
+      "pais": "Dominican Republic",
+      "continente": "North America",
+      "superficie": "48511"
+    },
+    {
+      "pais": "Ecuador",
+      "continente": "South America",
+      "superficie": "283561"
+    },
+    {
+      "pais": "Egypt",
+      "continente": "Africa",
+      "superficie": "1.00145e+06"
+    },
+    {
+      "pais": "El Salvador",
+      "continente": "North America",
+      "superficie": "21041"
+    },
+    {
+      "pais": "Eritrea",
+      "continente": "Africa",
+      "superficie": "117600"
+    },
+    {
+      "pais": "Spain",
+      "continente": "Europe",
+      "superficie": "505992"
+    },
+    {
+      "pais": "South Africa",
+      "continente": "Africa",
+      "superficie": "1.22104e+06"
+    },
+    {
+      "pais": "Ethiopia",
+      "continente": "Africa",
+      "superficie": "1.1043e+06"
+    },
+    {
+      "pais": "Falkland Islands",
+      "continente": "South America",
+      "superficie": "12173"
+    },
+    {
+      "pais": "Fiji Islands",
+      "continente": "Oceania",
+      "superficie": "18274"
+    },
+    {
+      "pais": "Philippines",
+      "continente": "Asia",
+      "superficie": "300000"
+    },
+    {
+      "pais": "Faroe Islands",
+      "continente": "Europe",
+      "superficie": "1399"
+    },
+    {
+      "pais": "Gabon",
+      "continente": "Africa",
+      "superficie": "267668"
+    },
+    {
+      "pais": "Gambia",
+      "continente": "Africa",
+      "superficie": "11295"
+    },
+    {
+      "pais": "Georgia",
+      "continente": "Asia",
+      "superficie": "69700"
+    },
+    {
+      "pais": "Ghana",
+      "continente": "Africa",
+      "superficie": "238533"
+    },
+    {
+      "pais": "Gibraltar",
+      "continente": "Europe",
+      "superficie": "6"
+    },
+    {
+      "pais": "Grenada",
+      "continente": "North America",
+      "superficie": "344"
+    },
+    {
+      "pais": "Greenland",
+      "continente": "North America",
+      "superficie": "2.16609e+06"
+    },
+    {
+      "pais": "Guadeloupe",
+      "continente": "North America",
+      "superficie": "1705"
+    },
+    {
+      "pais": "Guam",
+      "continente": "Oceania",
+      "superficie": "549"
+    },
+    {
+      "pais": "Guatemala",
+      "continente": "North America",
+      "superficie": "108889"
+    },
+    {
+      "pais": "Guinea",
+      "continente": "Africa",
+      "superficie": "245857"
+    },
+    {
+      "pais": "Guinea-Bissau",
+      "continente": "Africa",
+      "superficie": "36125"
+    },
+    {
+      "pais": "Guyana",
+      "continente": "South America",
+      "superficie": "214969"
+    },
+    {
+      "pais": "Haiti",
+      "continente": "North America",
+      "superficie": "27750"
+    },
+    {
+      "pais": "Honduras",
+      "continente": "North America",
+      "superficie": "112088"
+    },
+    {
+      "pais": "Hong Kong",
+      "continente": "Asia",
+      "superficie": "1075"
+    },
+    {
+      "pais": "Svalbard and Jan Mayen",
+      "continente": "Europe",
+      "superficie": "62422"
+    },
+    {
+      "pais": "Indonesia",
+      "continente": "Asia",
+      "superficie": "1.90457e+06"
+    },
+    {
+      "pais": "India",
+      "continente": "Asia",
+      "superficie": "3.28726e+06"
+    },
+    {
+      "pais": "Iraq",
+      "continente": "Asia",
+      "superficie": "438317"
+    },
+    {
+      "pais": "Iran",
+      "continente": "Asia",
+      "superficie": "1.6482e+06"
+    },
+    {
+      "pais": "Ireland",
+      "continente": "Europe",
+      "superficie": "70273"
+    },
+    {
+      "pais": "Iceland",
+      "continente": "Europe",
+      "superficie": "103000"
+    },
+    {
+      "pais": "Israel",
+      "continente": "Asia",
+      "superficie": "21056"
+    },
+    {
+      "pais": "Italy",
+      "continente": "Europe",
+      "superficie": "301316"
+    },
+    {
+      "pais": "East Timor",
+      "continente": "Asia",
+      "superficie": "14874"
+    },
+    {
+      "pais": "Austria",
+      "continente": "Europe",
+      "superficie": "83859"
+    },
+    {
+      "pais": "Jamaica",
+      "continente": "North America",
+      "superficie": "10990"
+    },
+    {
+      "pais": "Japan",
+      "continente": "Asia",
+      "superficie": "377829"
+    },
+    {
+      "pais": "Yemen",
+      "continente": "Asia",
+      "superficie": "527968"
+    },
+    {
+      "pais": "Jordan",
+      "continente": "Asia",
+      "superficie": "88946"
+    },
+    {
+      "pais": "Christmas Island",
+      "continente": "Oceania",
+      "superficie": "135"
+    },
+    {
+      "pais": "Yugoslavia",
+      "continente": "Europe",
+      "superficie": "102173"
+    },
+    {
+      "pais": "Cambodia",
+      "continente": "Asia",
+      "superficie": "181035"
+    },
+    {
+      "pais": "Cameroon",
+      "continente": "Africa",
+      "superficie": "475442"
+    },
+    {
+      "pais": "Canada",
+      "continente": "North America",
+      "superficie": "9.97061e+06"
+    },
+    {
+      "pais": "Cape Verde",
+      "continente": "Africa",
+      "superficie": "4033"
+    },
+    {
+      "pais": "Kazakstan",
+      "continente": "Asia",
+      "superficie": "2.7249e+06"
+    },
+    {
+      "pais": "Kenya",
+      "continente": "Africa",
+      "superficie": "580367"
+    },
+    {
+      "pais": "Central African Republic",
+      "continente": "Africa",
+      "superficie": "622984"
+    },
+    {
+      "pais": "China",
+      "continente": "Asia",
+      "superficie": "9.5729e+06"
+    },
+    {
+      "pais": "Kyrgyzstan",
+      "continente": "Asia",
+      "superficie": "199900"
+    },
+    {
+      "pais": "Kiribati",
+      "continente": "Oceania",
+      "superficie": "726"
+    },
+    {
+      "pais": "Colombia",
+      "continente": "South America",
+      "superficie": "1.13891e+06"
+    },
+    {
+      "pais": "Comoros",
+      "continente": "Africa",
+      "superficie": "1862"
+    },
+    {
+      "pais": "Congo",
+      "continente": "Africa",
+      "superficie": "342000"
+    },
+    {
+      "pais": "\"Congo",
+      "continente": " The Democratic Republic of the\"",
+      "superficie": "Africa"
+    },
+    {
+      "pais": "Cocos (Keeling) Islands",
+      "continente": "Oceania",
+      "superficie": "14"
+    },
+    {
+      "pais": "North Korea",
+      "continente": "Asia",
+      "superficie": "120538"
+    },
+    {
+      "pais": "South Korea",
+      "continente": "Asia",
+      "superficie": "99434"
+    },
+    {
+      "pais": "Greece",
+      "continente": "Europe",
+      "superficie": "131626"
+    },
+    {
+      "pais": "Croatia",
+      "continente": "Europe",
+      "superficie": "56538"
+    },
+    {
+      "pais": "Cuba",
+      "continente": "North America",
+      "superficie": "110861"
+    },
+    {
+      "pais": "Kuwait",
+      "continente": "Asia",
+      "superficie": "17818"
+    },
+    {
+      "pais": "Cyprus",
+      "continente": "Asia",
+      "superficie": "9251"
+    },
+    {
+      "pais": "Laos",
+      "continente": "Asia",
+      "superficie": "236800"
+    },
+    {
+      "pais": "Latvia",
+      "continente": "Europe",
+      "superficie": "64589"
+    },
+    {
+      "pais": "Lesotho",
+      "continente": "Africa",
+      "superficie": "30355"
+    },
+    {
+      "pais": "Lebanon",
+      "continente": "Asia",
+      "superficie": "10400"
+    },
+    {
+      "pais": "Liberia",
+      "continente": "Africa",
+      "superficie": "111369"
+    },
+    {
+      "pais": "Libyan Arab Jamahiriya",
+      "continente": "Africa",
+      "superficie": "1.75954e+06"
+    },
+    {
+      "pais": "Liechtenstein",
+      "continente": "Europe",
+      "superficie": "160"
+    },
+    {
+      "pais": "Lithuania",
+      "continente": "Europe",
+      "superficie": "65301"
+    },
+    {
+      "pais": "Luxembourg",
+      "continente": "Europe",
+      "superficie": "2586"
+    },
+    {
+      "pais": "Western Sahara",
+      "continente": "Africa",
+      "superficie": "266000"
+    },
+    {
+      "pais": "Macao",
+      "continente": "Asia",
+      "superficie": "18"
+    },
+    {
+      "pais": "Madagascar",
+      "continente": "Africa",
+      "superficie": "587041"
+    },
+    {
+      "pais": "Macedonia",
+      "continente": "Europe",
+      "superficie": "25713"
+    },
+    {
+      "pais": "Malawi",
+      "continente": "Africa",
+      "superficie": "118484"
+    },
+    {
+      "pais": "Maldives",
+      "continente": "Asia",
+      "superficie": "298"
+    },
+    {
+      "pais": "Malaysia",
+      "continente": "Asia",
+      "superficie": "329758"
+    },
+    {
+      "pais": "Mali",
+      "continente": "Africa",
+      "superficie": "1.24019e+06"
+    },
+    {
+      "pais": "Malta",
+      "continente": "Europe",
+      "superficie": "316"
+    },
+    {
+      "pais": "Morocco",
+      "continente": "Africa",
+      "superficie": "446550"
+    },
+    {
+      "pais": "Marshall Islands",
+      "continente": "Oceania",
+      "superficie": "181"
+    },
+    {
+      "pais": "Martinique",
+      "continente": "North America",
+      "superficie": "1102"
+    },
+    {
+      "pais": "Mauritania",
+      "continente": "Africa",
+      "superficie": "1.02552e+06"
+    },
+    {
+      "pais": "Mauritius",
+      "continente": "Africa",
+      "superficie": "2040"
+    },
+    {
+      "pais": "Mayotte",
+      "continente": "Africa",
+      "superficie": "373"
+    },
+    {
+      "pais": "Mexico",
+      "continente": "North America",
+      "superficie": "1.9582e+06"
+    },
+    {
+      "pais": "\"Micronesia",
+      "continente": " Federated States of\"",
+      "superficie": "Oceania"
+    },
+    {
+      "pais": "Moldova",
+      "continente": "Europe",
+      "superficie": "33851"
+    },
+    {
+      "pais": "Monaco",
+      "continente": "Europe",
+      "superficie": "1.5"
+    },
+    {
+      "pais": "Mongolia",
+      "continente": "Asia",
+      "superficie": "1.5665e+06"
+    },
+    {
+      "pais": "Montserrat",
+      "continente": "North America",
+      "superficie": "102"
+    },
+    {
+      "pais": "Mozambique",
+      "continente": "Africa",
+      "superficie": "801590"
+    },
+    {
+      "pais": "Myanmar",
+      "continente": "Asia",
+      "superficie": "676578"
+    },
+    {
+      "pais": "Namibia",
+      "continente": "Africa",
+      "superficie": "824292"
+    },
+    {
+      "pais": "Nauru",
+      "continente": "Oceania",
+      "superficie": "21"
+    },
+    {
+      "pais": "Nepal",
+      "continente": "Asia",
+      "superficie": "147181"
+    },
+    {
+      "pais": "Nicaragua",
+      "continente": "North America",
+      "superficie": "130000"
+    },
+    {
+      "pais": "Niger",
+      "continente": "Africa",
+      "superficie": "1.267e+06"
+    },
+    {
+      "pais": "Nigeria",
+      "continente": "Africa",
+      "superficie": "923768"
+    },
+    {
+      "pais": "Niue",
+      "continente": "Oceania",
+      "superficie": "260"
+    },
+    {
+      "pais": "Norfolk Island",
+      "continente": "Oceania",
+      "superficie": "36"
+    },
+    {
+      "pais": "Norway",
+      "continente": "Europe",
+      "superficie": "323877"
+    },
+    {
+      "pais": "Côte dIvoire",
+      "continente": "Africa",
+      "superficie": "322463"
+    },
+    {
+      "pais": "Oman",
+      "continente": "Asia",
+      "superficie": "309500"
+    },
+    {
+      "pais": "Pakistan",
+      "continente": "Asia",
+      "superficie": "796095"
+    },
+    {
+      "pais": "Palau",
+      "continente": "Oceania",
+      "superficie": "459"
+    },
+    {
+      "pais": "Panama",
+      "continente": "North America",
+      "superficie": "75517"
+    },
+    {
+      "pais": "Papua New Guinea",
+      "continente": "Oceania",
+      "superficie": "462840"
+    },
+    {
+      "pais": "Paraguay",
+      "continente": "South America",
+      "superficie": "406752"
+    },
+    {
+      "pais": "Peru",
+      "continente": "South America",
+      "superficie": "1.28522e+06"
+    },
+    {
+      "pais": "Pitcairn",
+      "continente": "Oceania",
+      "superficie": "49"
+    },
+    {
+      "pais": "Northern Mariana Islands",
+      "continente": "Oceania",
+      "superficie": "464"
+    },
+    {
+      "pais": "Portugal",
+      "continente": "Europe",
+      "superficie": "91982"
+    },
+    {
+      "pais": "Puerto Rico",
+      "continente": "North America",
+      "superficie": "8875"
+    },
+    {
+      "pais": "Poland",
+      "continente": "Europe",
+      "superficie": "323250"
+    },
+    {
+      "pais": "Equatorial Guinea",
+      "continente": "Africa",
+      "superficie": "28051"
+    },
+    {
+      "pais": "Qatar",
+      "continente": "Asia",
+      "superficie": "11000"
+    },
+    {
+      "pais": "France",
+      "continente": "Europe",
+      "superficie": "551500"
+    },
+    {
+      "pais": "French Guiana",
+      "continente": "South America",
+      "superficie": "90000"
+    },
+    {
+      "pais": "French Polynesia",
+      "continente": "Oceania",
+      "superficie": "4000"
+    },
+    {
+      "pais": "Réunion",
+      "continente": "Africa",
+      "superficie": "2510"
+    },
+    {
+      "pais": "Romania",
+      "continente": "Europe",
+      "superficie": "238391"
+    },
+    {
+      "pais": "Rwanda",
+      "continente": "Africa",
+      "superficie": "26338"
+    },
+    {
+      "pais": "Sweden",
+      "continente": "Europe",
+      "superficie": "449964"
+    },
+    {
+      "pais": "Saint Helena",
+      "continente": "Africa",
+      "superficie": "314"
+    },
+    {
+      "pais": "Saint Kitts and Nevis",
+      "continente": "North America",
+      "superficie": "261"
+    },
+    {
+      "pais": "Saint Lucia",
+      "continente": "North America",
+      "superficie": "622"
+    },
+    {
+      "pais": "Saint Vincent and the Grenadines",
+      "continente": "North America",
+      "superficie": "388"
+    },
+    {
+      "pais": "Saint Pierre and Miquelon",
+      "continente": "North America",
+      "superficie": "242"
+    },
+    {
+      "pais": "Germany",
+      "continente": "Europe",
+      "superficie": "357022"
+    },
+    {
+      "pais": "Solomon Islands",
+      "continente": "Oceania",
+      "superficie": "28896"
+    },
+    {
+      "pais": "Zambia",
+      "continente": "Africa",
+      "superficie": "752618"
+    },
+    {
+      "pais": "Samoa",
+      "continente": "Oceania",
+      "superficie": "2831"
+    },
+    {
+      "pais": "San Marino",
+      "continente": "Europe",
+      "superficie": "61"
+    },
+    {
+      "pais": "Sao Tome and Principe",
+      "continente": "Africa",
+      "superficie": "964"
+    },
+    {
+      "pais": "Saudi Arabia",
+      "continente": "Asia",
+      "superficie": "2.14969e+06"
+    },
+    {
+      "pais": "Senegal",
+      "continente": "Africa",
+      "superficie": "196722"
+    },
+    {
+      "pais": "Seychelles",
+      "continente": "Africa",
+      "superficie": "455"
+    },
+    {
+      "pais": "Sierra Leone",
+      "continente": "Africa",
+      "superficie": "71740"
+    },
+    {
+      "pais": "Singapore",
+      "continente": "Asia",
+      "superficie": "618"
+    },
+    {
+      "pais": "Slovakia",
+      "continente": "Europe",
+      "superficie": "49012"
+    },
+    {
+      "pais": "Slovenia",
+      "continente": "Europe",
+      "superficie": "20256"
+    },
+    {
+      "pais": "Somalia",
+      "continente": "Africa",
+      "superficie": "637657"
+    },
+    {
+      "pais": "Sri Lanka",
+      "continente": "Asia",
+      "superficie": "65610"
+    },
+    {
+      "pais": "Sudan",
+      "continente": "Africa",
+      "superficie": "2.50581e+06"
+    },
+    {
+      "pais": "Finland",
+      "continente": "Europe",
+      "superficie": "338145"
+    },
+    {
+      "pais": "Suriname",
+      "continente": "South America",
+      "superficie": "163265"
+    },
+    {
+      "pais": "Swaziland",
+      "continente": "Africa",
+      "superficie": "17364"
+    },
+    {
+      "pais": "Switzerland",
+      "continente": "Europe",
+      "superficie": "41284"
+    },
+    {
+      "pais": "Syria",
+      "continente": "Asia",
+      "superficie": "185180"
+    },
+    {
+      "pais": "Tajikistan",
+      "continente": "Asia",
+      "superficie": "143100"
+    },
+    {
+      "pais": "Taiwan",
+      "continente": "Asia",
+      "superficie": "36188"
+    },
+    {
+      "pais": "Tanzania",
+      "continente": "Africa",
+      "superficie": "883749"
+    },
+    {
+      "pais": "Denmark",
+      "continente": "Europe",
+      "superficie": "43094"
+    },
+    {
+      "pais": "Thailand",
+      "continente": "Asia",
+      "superficie": "513115"
+    },
+    {
+      "pais": "Togo",
+      "continente": "Africa",
+      "superficie": "56785"
+    },
+    {
+      "pais": "Tokelau",
+      "continente": "Oceania",
+      "superficie": "12"
+    },
+    {
+      "pais": "Tonga",
+      "continente": "Oceania",
+      "superficie": "650"
+    },
+    {
+      "pais": "Trinidad and Tobago",
+      "continente": "North America",
+      "superficie": "5130"
+    },
+    {
+      "pais": "Chad",
+      "continente": "Africa",
+      "superficie": "1.284e+06"
+    },
+    {
+      "pais": "Czech Republic",
+      "continente": "Europe",
+      "superficie": "78866"
+    },
+    {
+      "pais": "Tunisia",
+      "continente": "Africa",
+      "superficie": "163610"
+    },
+    {
+      "pais": "Turkey",
+      "continente": "Asia",
+      "superficie": "774815"
+    },
+    {
+      "pais": "Turkmenistan",
+      "continente": "Asia",
+      "superficie": "488100"
+    },
+    {
+      "pais": "Turks and Caicos Islands",
+      "continente": "North America",
+      "superficie": "430"
+    },
+    {
+      "pais": "Tuvalu",
+      "continente": "Oceania",
+      "superficie": "26"
+    },
+    {
+      "pais": "Uganda",
+      "continente": "Africa",
+      "superficie": "241038"
+    },
+    {
+      "pais": "Ukraine",
+      "continente": "Europe",
+      "superficie": "603700"
+    },
+    {
+      "pais": "Hungary",
+      "continente": "Europe",
+      "superficie": "93030"
+    },
+    {
+      "pais": "Uruguay",
+      "continente": "South America",
+      "superficie": "175016"
+    },
+    {
+      "pais": "New Caledonia",
+      "continente": "Oceania",
+      "superficie": "18575"
+    },
+    {
+      "pais": "New Zealand",
+      "continente": "Oceania",
+      "superficie": "270534"
+    },
+    {
+      "pais": "Uzbekistan",
+      "continente": "Asia",
+      "superficie": "447400"
+    },
+    {
+      "pais": "Belarus",
+      "continente": "Europe",
+      "superficie": "207600"
+    },
+    {
+      "pais": "Wallis and Futuna",
+      "continente": "Oceania",
+      "superficie": "200"
+    },
+    {
+      "pais": "Vanuatu",
+      "continente": "Oceania",
+      "superficie": "12189"
+    },
+    {
+      "pais": "Holy See (Vatican City State)",
+      "continente": "Europe",
+      "superficie": "0.4"
+    },
+    {
+      "pais": "Venezuela",
+      "continente": "South America",
+      "superficie": "912050"
+    },
+    {
+      "pais": "Russian Federation",
+      "continente": "Europe",
+      "superficie": "1.70754e+07"
+    },
+    {
+      "pais": "Vietnam",
+      "continente": "Asia",
+      "superficie": "331689"
+    },
+    {
+      "pais": "Estonia",
+      "continente": "Europe",
+      "superficie": "45227"
+    },
+    {
+      "pais": "United States",
+      "continente": "North America",
+      "superficie": "9.36352e+06"
+    },
+    {
+      "pais": "\"Virgin Islands",
+      "continente": " U.S.\"",
+      "superficie": "North America"
+    },
+    {
+      "pais": "Zimbabwe",
+      "continente": "Africa",
+      "superficie": "390757"
+    },
+    {
+      "pais": "Palestine",
+      "continente": "Asia",
+      "superficie": "6257"
+    },
+    {
+      "pais": "Antarctica",
+      "continente": "Antarctica",
+      "superficie": "1.312e+07"
+    },
+    {
+      "pais": "Bouvet Island",
+      "continente": "Antarctica",
+      "superficie": "59"
+    },
+    {
+      "pais": "British Indian Ocean Territory",
+      "continente": "Africa",
+      "superficie": "78"
+    },
+    {
+      "pais": "South Georgia and the South Sandwich Islands",
+      "continente": "Antarctica",
+      "superficie": "3903"
+    },
+    {
+      "pais": "Heard Island and McDonald Islands",
+      "continente": "Antarctica",
+      "superficie": "359"
+    },
+    {
+      "pais": "French Southern territories",
+      "continente": "Antarctica",
+      "superficie": "7780"
+    },
+    {
+      "pais": "United States Minor Outlying Islands",
+      "continente": "Oceania",
+      "superficie": "16"
+    }
+  ]
+}
